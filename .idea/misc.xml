@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/naissances/pom.xml" />
+        <option value="$PROJECT_DIR$/gestion-users/pom.xml" />
+        <option value="$PROJECT_DIR$/mariages/pom.xml" />
+        <option value="$PROJECT_DIR$/deces/pom.xml" />
+        <option value="$PROJECT_DIR$/residences/pom.xml" />
+        <option value="$PROJECT_DIR$/indigences/pom.xml" />
+        <option value="$PROJECT_DIR$/vie-collectives/pom.xml" />
+        <option value="$PROJECT_DIR$/vie-individuelles/pom.xml" />
+        <option value="$PROJECT_DIR$/copie-litterales/pom.xml" />
+        <option value="$PROJECT_DIR$/gestion-utilisateurs/pom.xml" />
+        <option value="$PROJECT_DIR$/authentification/pom.xml" />
+        <option value="$PROJECT_DIR$/auth/pom.xml" />
+        <option value="$PROJECT_DIR$/auth2/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/pom.xml" />
+        <option value="$PROJECT_DIR$/backend-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/config/pom.xml" />
+        <option value="$PROJECT_DIR$/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/app/pom.xml" />
+        <option value="$PROJECT_DIR$/client/pom.xml" />
+        <option value="$PROJECT_DIR$/app-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/client-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/domiciles/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

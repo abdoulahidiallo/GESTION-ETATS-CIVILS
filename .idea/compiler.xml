@@ -7,18 +7,64 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="deces" />
+        <module name="copie-litterales" />
         <module name="naissances" />
         <module name="mariages" />
+        <module name="auth" />
+        <module name="authentification" />
         <module name="gestion-users" />
+        <module name="auth2" />
+        <module name="gestion-utilisateurs" />
+        <module name="vie-collectives" />
+        <module name="discovery" />
+        <module name="client" />
+        <module name="backend" />
+        <module name="indigences" />
+        <module name="domiciles" />
+        <module name="residences" />
+        <module name="client-microservice" />
+        <module name="config" />
+        <module name="vie-individuelles" />
+        <module name="gateway" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app" target="17" />
+      <module name="app-microservice" target="17" />
+      <module name="backend-microservice" target="17" />
+      <module name="config-service" target="17" />
+      <module name="discovery-service" target="17" />
+      <module name="gateway-service" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="app" options="-parameters" />
+      <module name="app-microservice" options="-parameters" />
+      <module name="auth" options="-parameters" />
+      <module name="auth2" options="-parameters" />
+      <module name="authentification" options="-parameters" />
+      <module name="backend" options="-parameters" />
+      <module name="backend-microservice" options="-parameters" />
+      <module name="client" options="-parameters" />
+      <module name="client-microservice" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="config-service" options="-parameters" />
+      <module name="copie-litterales" options="-parameters" />
       <module name="deces" options="-parameters" />
+      <module name="discovery" options="-parameters" />
+      <module name="discovery-service" options="-parameters" />
+      <module name="domiciles" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
       <module name="gestion-users" options="-parameters" />
+      <module name="gestion-utilisateurs" options="-parameters" />
+      <module name="indigences" options="-parameters" />
       <module name="mariages" options="-parameters" />
       <module name="naissances" options="-parameters" />
+      <module name="residences" options="-parameters" />
+      <module name="vie-collectives" options="-parameters" />
+      <module name="vie-individuelles" options="-parameters" />
     </option>
   </component>
 </project>

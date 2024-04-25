@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authentification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/copie-litterales/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/deces/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domiciles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gestion-users/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gestion-utilisateurs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/indigences/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mariages/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/naissances/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/residences/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vie-collectives/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vie-individuelles/src/main/java" charset="UTF-8" />
   </component>
 </project>
